@@ -23,17 +23,17 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oP4e86fxJOVOduSigN3AdVTDcVSQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'HpbOLcbC_ehOuOD7A6p0uPVwTXv2BYee93pP__6kKTo',
+      useTemplateId: 'Jb4yO2qCzwNx-LNVwXuBuGWAYGgEpHvXaqobn-55GSQ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-07',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '璐璐酱', year: '1991', date: '08-30',
+          type: '生日', name: '璐璐酱', year: '1991', date: '10-07',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '邓研', year: '1991', date: '10-26',
+          type: '生日', name: '邓研', year: '1991', date: '12-01',
         },
         {
           type: '节日', name: '相恋纪念日', year: '2023', date: '02-06',
@@ -44,7 +44,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2023-02-18' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2023-02-18' },
+        { keyword: 'marry_day', date: '2023-02-10' },
       ],
     },
   ],
