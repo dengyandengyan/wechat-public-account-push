@@ -29,11 +29,11 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '生日', name: '璐璐酱', year: '1991', date: '10-07',
+          type: '生日', name: '50猪', year: '1991', date: '10-07',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '邓研', year: '1991', date: '12-01',
+          type: '生日', name: '100猪', year: '1991', date: '12-01',
         },
         {
           type: '节日', name: '相恋纪念日', year: '2023', date: '02-14',
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'HpbOLcbC_ehOuOD7A6p0uPVwTXv2BYee93pP__6kKTo',
+  CALLBACK_TEMPLATE_ID: 'Jb4yO2qCzwNx-LNVwXuBuGWAYGgEpHvXaqobn-55GSQ',
 
   CALLBACK_USERS: [
     {
